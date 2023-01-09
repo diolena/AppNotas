@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Aplicar ablandador de cuticula",
+        "estado":  "terminada"
+    },
+    {
+        "titulo": "Repujar la cuticula con un palito de naranjo",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Cortar cuidadosamente la cuticula",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Aplicar aceite revitalizante de cuticula",
+        "estado": "pendiente"
+    }
+]
